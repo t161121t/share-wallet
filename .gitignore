@@ -1,4 +1,4 @@
 # Ignore virtual environment folders
 venv/
-.env/
+.envv/
 .DS_Store
